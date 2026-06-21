@@ -1,4 +1,4 @@
-# College Student Management System
+# 🎓 College Student Management System
 
 > A full-stack MERN application for managing student records, academic marks, fee collection, and certificate generation through a role-based campus dashboard.
 
